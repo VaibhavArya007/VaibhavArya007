@@ -1,9 +1,11 @@
 ![logo](https://github.com/VaibhavArya007/VaibhavArya007/blob/main/Slice%202.png)
 <h1 align="center">Hey there folks!👋, I'm Vaibhav Arya</h1>
 <h3 align="center">A Software Engineering Undergrad from Delhi Technological University</h3>
+<br/>
 <img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952071uby3lihmr3o0wb82bmo0ayi7da6960zjvyp6i&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavarya007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavarya007" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavarya007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavarya007" /> </p>
+<br/>
 - 👨‍💻 Do have a look at my portfolio website [Web-Portfolio](https://web-portfolio-vaibhav.netlify.app/)
 
 - 📝 I regularly post cinematics on [@Throughmyalpha](https://www.instagram.com/throughmyalpha/)
@@ -11,14 +13,23 @@
 - 💬We can chat about **Science, Computer, AI & Ofc how caffeine helps in life.**
 
 - 📫 You can reach me at **vaibhavaryavns007@gmail.com**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaibhavary10934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavary10934" height="35" width="35" gap="35" /></a>
-<a href="https://linkedin.com/in/vaibhav arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav arya" height="35" width="35" gap="35" /></a>
-<a href="https://instagram.com/throughmyalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="throughmyalpha" height="35" width="35" gap="35" /></a>
-<a href="https://www.leetcode.com/vaibhav_arya007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_arya007" height="35" width="35" gap="35" /></a>
+  <a href="https://twitter.com/vaibhavary10934" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavary10934" height="35" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vaibhav arya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav arya" height="35" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/throughmyalpha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="throughmyalpha" height="35" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/vaibhav_arya007" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_arya007" height="35" width="35" />
+  </a>
 </p>
+
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
