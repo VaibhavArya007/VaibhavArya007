@@ -16,26 +16,28 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+
+ <a href="https://linkedin.com/in/vaibhav arya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
+ <a href="https://twitter.com/vaibhavary10934"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
+ <a href="https://instagram.com/throughmyalpha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a>
+  <a href="https://www.leetcode.com/vaibhav_arya007" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="alsiam" />
  </a>
 </p>
 
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript">
@@ -75,6 +77,20 @@
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" alt="React Query">
   <br/>
 </p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/VaibhavArya007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavArya007&theme=radical&border=7F3FBF&background=0D1117" alt="Vaibhav Arya's GitHub streak"/>
+  </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavarya007&" alt="vaibhavarya007" /></p>
+<a href="https://github.com/VaibhavArya007">
+  <img alt="Vaibhav Arya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArya007&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+</p>
+<br/>
+
+
+![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavarya007&custom_title=Vaibhav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
