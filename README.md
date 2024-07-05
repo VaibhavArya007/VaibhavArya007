@@ -6,8 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavarya007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavarya007" /> </p>
 <br/>
-- 👨‍💻 Do have a look at my portfolio website [Web-Portfolio](https://web-portfolio-vaibhav.netlify.app/)
 
+- 👨‍💻 Do have a look at my portfolio website [Web-Portfolio](https://web-portfolio-vaibhav.netlify.app/)
+  
 - 📝 I regularly post cinematics on [@Throughmyalpha](https://www.instagram.com/throughmyalpha/)
 
 - 💬We can chat about **Science, Computer, AI & Ofc how caffeine helps in life.**
