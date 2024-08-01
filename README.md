@@ -1,4 +1,3 @@
-![logo](https://github.com/VaibhavArya007/VaibhavArya007/blob/main/Slice%202.png)
 <h1 align="center">Hey there folks!👋, I'm Vaibhav Arya</h1>
 <h3 align="center">A Software Engineering Undergrad from Delhi Technological University</h3>
 <br/>
